@@ -14,11 +14,11 @@
 - ✉️ eumartinez@gmail.com
 
 <div align="center" style="display: flex; justify-content: center;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashakaz&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashakaz&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=ashakaz&show_icons=true&theme=tokyonight"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashakaz&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
-<h4 align="left">Linguagens e tecnologias </h4>
+<h4 align="left">Linguagens </h4>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
@@ -31,8 +31,10 @@
 </div>
 
 <h4 align="left">Conexões </h4>
-<a href="https://www.linkedin.com/in/rafaela-mumbach-buenos-8b00b8275" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://instagram.com/rafaelavlrr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+[![about](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://blenderartists.org/u/aishkkz/preferences/security)
+[![about](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/aishkz/)
+[![Bluesky](https://img.shields.io/badge/Bluesky-4263f5?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/aishaak1.bsky.social)
 
 
 
