@@ -34,7 +34,7 @@
 
 [![about](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://blenderartists.org/u/aishkkz/preferences/security)
 [![about](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/aishkz/)
-[![Bluesky](https://img.shields.io/badge/Bluesky-4263f5?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/aishaak1.bsky.social)
+[![Bluesky](https://img.shields.io/badge/Bluesky-4263f5?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/ashakaz.bsky.social)
 
 
 
